@@ -5,7 +5,7 @@ This repository contains JavaScript snippets that allow you to clean up the webs
 linkedIn-cleaner.js allow you to remove ads and people's posts from you LinkedIn home page.
 
 #### Usage
-* Copy this JavaScript from linkedIn-cleaner.js.
+* Copy this JavaScript from [linkedIn-cleaner.js](https://raw.githubusercontent.com/yguan/website-cleaning/master/linkedIn-cleaner.js).
 * Navigate to your LinkedIn home page.
 * Paste it to the Chrome browser's console.
 * Press the entery key.

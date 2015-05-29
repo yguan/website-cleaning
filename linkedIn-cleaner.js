@@ -72,8 +72,8 @@
     }
     
 	clean({
-	    scrollDownToPixels: 20000, // 20,000
-		nDaysAgo: 5,
+	    scrollDownToPixels: 50000, // 50,000
+		nDaysAgo: 20,
 		namesToRemove: ['name 1', 'name 2']
 	});
 })(window.$);

@@ -72,7 +72,7 @@
     }
 
     clean({
-        scrollDownToPixels: 50000, // 50,000
+        scrollDownToPixels: 20000, // 50,000
         nDaysAgo: 20,
         namesToRemove: ['name 1', 'name 2']
     });

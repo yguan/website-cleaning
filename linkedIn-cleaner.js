@@ -73,7 +73,7 @@
 
     clean({
         scrollDownToPixels: 20000, // 50,000
-        nDaysAgo: 20,
+        nDaysAgo: 7,
         namesToRemove: ['name 1', 'name 2']
     });
 })(window.$);
